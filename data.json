@@ -1,0 +1,23 @@
+{
+	"pokemons": [
+		{
+			"name": "Pikachu",
+			"level":"20",
+			"type1":"Electric",
+			"fast_move_name": "Quick Attack",
+			"fast_move_type": "Normal",
+			"charge_move_name": "Thunder bolt"
+			"charge_move_type": "Electric"
+		},
+		{
+			"name": "Lugia",
+			"level":"30",
+			"type1":"Flying",
+			"type2":"Psychic",
+			"fast_move_name": "Dragon Tail",
+			"fast_move_type": "Dragon",
+			"charge_move_name": "Sky Attack"
+			"charge_move_type": "Flying"
+		}
+	]
+}
